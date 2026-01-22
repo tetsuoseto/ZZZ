@@ -2,13 +2,13 @@
     "doc_template_type": "modern_gray",
     "doc_cover": true,
     "doc_title": [
+        "",
         "LLMおよび生成AIにおける",
         "データ安全性の手引き"
     ],
     "doc_title_pivot.pt_x": 72,
     "doc_title_pivot.pt_y": 475,
     "doc_subtitles": [
-        "",
         "",
         "OWASP Top 10 for LLM Apps & Gen AI",
         "Data Security Initiative",
@@ -36,8 +36,8 @@
     "doc_watermark": true,
     "doc_appendix_titles": [],
     "doc_sponsor_page_titles": [
-        "プロジェクト・スポンサー",
-        "協賛"
+        "協賛",
+        "参加・協力"
     ],
     "doc_title_font.size": 40,
     "doc_title_font.line_pitch": 48,
