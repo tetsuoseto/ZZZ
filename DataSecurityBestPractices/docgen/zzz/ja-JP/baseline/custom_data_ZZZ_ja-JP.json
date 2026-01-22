@@ -83,7 +83,7 @@
     "blockquote_font.size": 10.0,
     "blockquote_font.line_pitch": 14.0,
     "blockquote_font.line_alignment": "justified",
-    "unordered_list_marker": "rectangle",
+    "unordered_list_marker": "square",
     "md_file_range": [
         0,
         999999
