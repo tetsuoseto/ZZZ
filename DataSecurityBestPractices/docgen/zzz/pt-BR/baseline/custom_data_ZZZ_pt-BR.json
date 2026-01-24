@@ -2,13 +2,13 @@
     "doc_template_type": "modern_gray",
     "doc_cover": true,
     "doc_title": [
+        "",
         "Melhores práticas de segurança de",
         "dados para LLM e Gen AI"
     ],
     "doc_title_pivot.pt_x": 72,
     "doc_title_pivot.pt_y": 475,
     "doc_subtitles": [
-        "",
         "",
         "OWASP Top 10 para aplicações LLM e Gen AI",
         "Iniciativa de Segurança de Dados",
